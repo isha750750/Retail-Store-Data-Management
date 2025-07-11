@@ -68,7 +68,7 @@ Retail-Store-SQL-Data-Management
 
 ---
 
-## 🚀 How to Use:
+##  How to Use:
 1. Execute `01_Create_Tables.sql` to create all tables.
 2. Run `02_Insert_Data.sql` to insert the sample data.
 3. Run `03_Update_and_Merge.sql` for updates, classifications, and merging.
@@ -76,7 +76,7 @@ Retail-Store-SQL-Data-Management
 
 ---
 
-## 📊 Sample Business Use Cases:
+##  Sample Business Use Cases:
 - Identify high-performing stores.
 - Classify stores based on profits and losses.
 - Summarize order categories per store.
